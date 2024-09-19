@@ -50,7 +50,7 @@ SELECT * FROM Usuario;
 
 /* INSERIR DADOS NA TABELA "LIVRO" */
 INSERT into Livros (cod_livros, titulo, genero, autor, edicao, isbn, qtd_disponivel, qtd_paginas, editora, disponivel)
-VALUES (1, 'Verity', 'Thriller', 'Coolen Hoover', '2016-03-03', '1234567890123', 4, 326, 'Galera', true);
+VALUES (1, 'Verity', 'Thriller', 'Coollen Hoover', '2016-03-03', '1234567890123', 4, 326, 'Galera', true);
 
 SELECT * FROM Livros;
 
