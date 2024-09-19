@@ -44,7 +44,7 @@ CREATE TABLE Bibliotecarios
 
 /* INSERIR DADOS NA TABELA "USUÁRIOS" */
 INSERT INTO Usuario (cod_usuario, nome, endereco, tel_celular, email, cpf, rg, livros_registrados)
-VALUES (1, 'Murilo', 'Rua Cantagalo, 298', '+55 11 94128-0853', 'murapb07@gmail.com', '53998900896', '573982623', 3);
+VALUES (1, 'Murilo', 'Rua dos alfaces', '+55 11 94128-0853', 'murapb07@gmail.com', '53998900896', '573982623', 3);
 
 SELECT * FROM Usuario;
 
