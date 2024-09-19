@@ -56,6 +56,6 @@ SELECT * FROM Livros;
 
 /* INSERIR DADOS NA TABELA "BIBLIOTECARIOS" */
 INSERT INTO Bibliotecarios (cod_bibliotecarios, nome, endereco, tel_celular, email, cpf, rg, carga_horaria, salario, cod_livros)
-VALUES (1, 'Vitoria', 'Rua Pq. Santo Antonio', '+55 11 93721-4982', 'viviborn@etec.sp.gov.br', '59820987366', '938475928', 06.00, 5000.00, 1);
+VALUES (1, 'Vitoria', 'Rua Pq. Santo Antonio', '+55 11 93721-4983', 'viviborn@etec.sp.gov.br', '59820987366', '938475928', 06.00, 5000.00, 1);
 
 SELECT * FROM Bibliotecarios;
